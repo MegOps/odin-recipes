@@ -8,9 +8,31 @@ width: 300px;
 text-align: center;
 font-weight: bolder;
 }
-.item{
-color:lightcoral;
+
+.box{
+    text-align: center;
+    color:white;
 }
-.simprecip{
+
+.item{
+
+
+}
+.center{
 text-align: center;
 }
+
+
+.item {
+    width: fit-content;
+    height: fit-content;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid black;
+    color:white;
+    display: inline-block;
+    list-style: none;
+    background: cornflowerblue;
+    text-align: center;
+    font-weight: bolder;
+  }
